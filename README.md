@@ -8,10 +8,8 @@
 <!-- Debe contar con un sistema de navegación accesible en todo momento 10 puntos -->
 **REQ4** En el archivo Main.html se utiliza Carousel, en la barra de navegacion, desde la vista de dispositivos moviles, se utiliza DropDown.\
 Debe implementar al menos 3 componentes Bootstrap no trabajados en clase (Jumbotron, Nav, Cards no serán considerados) 30 puntos
-
-**REQ5** \
-Debe considerar al menos un elemento con CSS propio 10 puntos
-
+**REQ5** los Cards en Art.html utilizan CSS para funcionar y se encuentra al final del archivo Styles.css\
+<!-- Debe considerar al menos un elemento con CSS propio 10 puntos -->
 **REQ6** Ademas de el cambio anteriormente mencionado en la barra de navegacion, en el archivo Art.html se muestra la informacion de las ilustraciones sin necesitar que el puntero se pose sobre las ilustraciones para que los usuarios moviles no pierdan esa información.
 <!-- El sitio debe adaptarse a cualquier tamaño de pantalla y tener al menos un punto de quiebre que involucre un cambio en la estructura 10 puntos -->
 **REQ7** El fondo de todas las paginas es una Lluvia de estrellas/Nieve programadacon Javascript.
