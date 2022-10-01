@@ -6,7 +6,7 @@
 
 **REQ3** Se puede ver en todo momento una barra de navegacion en la parte superior de la pagina.
 
-**REQ4** En el archivo Main.html se utiliza Carousel, en la barra de navegacion, desde la vista de dispositivos moviles, se utiliza DropDown.
+**REQ4** En el archivo Main.html se utiliza Carousel, en la barra de navegacion, desde la vista de dispositivos moviles, se utiliza Drop Down y por ultimo se utiliza Collapse en carro.html
 
 **REQ5** los Cards en Art.html utilizan CSS para funcionar y se encuentra al final del archivo Styles.css.
 
